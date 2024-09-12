@@ -114,7 +114,7 @@ a {
 
 .blog {
   width: 100%;
-  padding: 4rem;
+  padding: 4rem 0;
 }
 
 .blog__content {
@@ -146,7 +146,7 @@ a {
 
 .design {
   width: 100%;
-  padding: 4rem;
+  padding: 4rem 0;
   background-color: rgb(170, 165, 156);
 }
 
@@ -174,7 +174,7 @@ a {
 
 .about {
   width: 100%;
-  padding: 4rem;
+  padding: 4rem 0;
 }
 
 .about__content {
@@ -197,7 +197,7 @@ a {
 
 .footer {
   width: 100%;
-  padding: 4rem;
+  padding: 4rem 0;
   background-color: rgb(10, 10, 10);
 }
 .footer .social {
